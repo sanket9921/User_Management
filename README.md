@@ -32,6 +32,7 @@ Before starting, make sure you have:
     https://github.com/sanket9921/User_Management.git
     cd user-management-api
 2. **Install Dependencies**
+   ```bash
     npm install
 
 3. **Set Up Environment Variables**
@@ -42,9 +43,11 @@ Before starting, make sure you have:
     DB_PASS=password
     DB_HOST=localhost
 4. **Run Database Migrations**
+   ```bash
     npx sequelize-cli db:migrate
 5. **(Optional) Seed Roles**
+   ```bash
     npx sequelize-cli db:seed:all
 6. **Start the Server**
+   ```bash
     npm start
-```
