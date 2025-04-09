@@ -36,6 +36,7 @@ Before starting, make sure you have:
     npm install
 
 3. **Set Up Environment Variables**
+   ```bash
     PORT=5000
     JWT_SECRET=your_jwt_secret_key
     DB_NAME=user_management
