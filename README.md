@@ -51,4 +51,4 @@ Before starting, make sure you have:
     npx sequelize-cli db:seed:all
 6. **Start the Server**
    ```bash
-    npm start
+    node server.js
