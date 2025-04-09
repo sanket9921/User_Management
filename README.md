@@ -30,7 +30,7 @@ Before starting, make sure you have:
 1. **Clone the Repository**
    ```bash
     https://github.com/sanket9921/User_Management.git
-    cd user-management-api
+    cd User_Management
 2. **Install Dependencies**
    ```bash
     npm install
