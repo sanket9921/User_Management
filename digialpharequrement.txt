@@ -1,0 +1,22 @@
+Task: Create REST APIs for User Management
+Develop REST APIs for:
+- Register User (First Name, Last Name, Email, Phone)
+- Get User by ID
+- Update User (First Name, Last Name, Email, Phone)
+- Delete/Disable User
+- Create User Rules
+- Assign Roles to user
+- Implement role based user authentication and authorization using JWT
+- List All Users with filters (Filters: First Name, Last Name, Email, Phone, Role)
+Deliverables:
+1. NodeJS Code GitHub Link
+2. Postman Collection Link
+Test Expectations:
+1. All coding standards should be followed for NodeJS, REST API
+2. Code should be optimised for performance
+3. All tables should be created using database migrations
+
+Note:
+Please do not copy code from ChatGPT or any other AI tools. If copied content is found, the
+test will be immediately rejected.
+Make sure all the work you submit is your own.
